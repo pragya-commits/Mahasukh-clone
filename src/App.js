@@ -4,6 +4,7 @@ import Herosection from "./components/Herosection";
 import Qualities from "./components/Qualities";
 import Ourjourney from "./components/Ourjourney";
 import Teagrades from "./components/Teagrades";
+import Distributor from "./components/Distributor";
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
       <Qualities></Qualities>
       <Ourjourney></Ourjourney>
       <Teagrades></Teagrades>
+      <Distributor></Distributor>
     </>
   );
 }
