@@ -5,7 +5,6 @@ const Herosection = () => {
   const styles = {
     headtext: {
       fontSize: "48px",
-      fontFamily: "Open Sans",
       lineHeight: "70px",
       color: "#182b3b",
       fontWeight: "bold",
@@ -42,7 +41,7 @@ const Herosection = () => {
   return (
     <Box sx={styles.mainhero}>
       <Box sx={styles.heroElement}>
-        <img src={bgimage} width={1263.33} height={960} />
+        <img src={bgimage} height={1000} />
         <Box
           style={{
             position: "absolute",
