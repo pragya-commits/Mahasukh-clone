@@ -13,7 +13,7 @@ function App() {
       <Qualities></Qualities>
       <Ourjourney></Ourjourney>
       <Teagrades></Teagrades>
-      <Distributor></Distributor>
+    //  <Distributor></Distributor>
     </>
   );
 }
